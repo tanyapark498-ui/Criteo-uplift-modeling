@@ -7,3 +7,4 @@ data/*.gz
 data/*.zip
 .DS_Store
 *.pyc
+catboost_info/
